@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>asd106.jpg</filename>
+	<path>/my-project-name/asd106.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>119</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>48</ymin>
+			<xmax>107</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>
